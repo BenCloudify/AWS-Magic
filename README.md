@@ -2,8 +2,8 @@
 Automation tools for cloud operations on the AWS cloud platform.
 
 **1) Magikarp IAM Roles Reporter v1.0 - A tool to check whether IAM roles meet specific compliance requirements across multiple AWS accounts.**
-
-
+/n
+/n
 
 **2) Piplup EC2 Port Scanner v1.0 - A tool to scan open, closed, and firewall-blocked ports across multiple AWS accounts.**
 
