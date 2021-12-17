@@ -8,5 +8,8 @@ Automation tools for cloud operations on the AWS cloud platform.
 
 
 **3) Turtwig Resource Tagger v1.0 - A tool to tag various AWS resources independently across multiple accounts.**
+* v1.0 supports tagging for EC2, EBS, and RDS!
+* Create as many tags as you want for supported resources!
+* Tag resources independently! 
 
   
