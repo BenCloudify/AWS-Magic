@@ -7,7 +7,7 @@ A tool to check whether IAM roles meet specific compliance requirements across m
 <br>
 
 ### *Piplup EC2 Port Scanner v1.0*
-A tool to scan open, closed, and firewall-blocked ports across multiple AWS accounts.
+A tool to scan open, closed, and firewall-blocked EC2 ports across multiple AWS accounts.
 <br>
 <br>
 
